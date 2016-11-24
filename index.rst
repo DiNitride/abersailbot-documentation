@@ -1,5 +1,5 @@
-Welcome to dewi's documentation!
-================================
+Abersailbot Documentation
+=========================
 
 Contents:
 
