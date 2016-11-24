@@ -12,8 +12,6 @@ Contents:
    testing
    yo-dawg
 
-.. include:: ../README.rst
-
 
 Indices and tables
 ==================
