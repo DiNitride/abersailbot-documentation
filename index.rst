@@ -10,6 +10,7 @@ Contents:
    hardware-spec
    provisioning
    testing
+   yo-dawg
 
 .. include:: ../README.rst
 
