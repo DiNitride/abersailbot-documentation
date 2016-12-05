@@ -3,17 +3,36 @@ Captain H. Morgan
 =================
 
 Captain Morgan is an attempt to integrate the electronics of a 
-  robotic sailing boat into a single, easily testable PCB.
-  As of the time of writing, the GPS and power regulation 
-  for the autonomous control system is implemented and working
-  well. In future revisions it will also contain a real-time 
-  MCU to handle timing critical systems on the boat, various 
-  communication systems includeing Wifi and Xbee radios, input
-  protection on all external electrical connections, and 
-  battey monitoring circuitry.  
+robotic sailing boat into a single, easily testable PCB.
+As of the time of writing, the GPS and power regulation 
+for the autonomous control system is implemented and working
+well. In future revisions it will also contain a real-time 
+MCU to handle timing critical systems on the boat, various 
+communication systems including Wifi and Xbee radios, input
+protection on all external electrical connections, and 
+battey monitoring circuitry.
+
+Current Versions
+----------------
+
+There are currently two versions of the Captain Morgan in circulation,
+the first is a very rough prototype, a heavily modified version was taken 
+to Sailbot 2016 where is worked fairly well, however where possible
+these should be replaced with later versions and removed from service.
+
+The other version is v1.2, this is pretty much complete and only requires
+a minor bodge wire to enable using an active antenna, this is the version 
+that went to WRSC 2016.
+
+The final version currently in existance is the v1.2.2, this is a tweaked 
+v1.2 which fixes the Vant pin not being connected to power an antenna.
+At the time of writing this version is being fabbed and should be ready 
+in early January. This version is meant to be a fully functional reserve
+to allow development of new features while not compromising the functionality
+of the boats for competitions.
 
 Bill Of Materials
-=================
+-----------------
 
 Below is the Bill of Materials for the v1.2.2 Captain H. Morgan PCB.
 
