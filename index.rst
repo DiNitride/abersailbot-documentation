@@ -10,6 +10,7 @@ Contents:
    hardware-spec
    provisioning
    testing
+   captain-morgan
    yo-dawg
 
 

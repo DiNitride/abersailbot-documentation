@@ -58,3 +58,4 @@ Below is the Bill of Materials for the v1.2.2 Captain H. Morgan PCB.
 | Maestro A2200-A      | U1             | 1     | Discontinued  | N/A       | 2281694            | £13.57         |
 +----------------------+----------------+-------+---------------+-----------+--------------------+----------------+
 
+competitions
