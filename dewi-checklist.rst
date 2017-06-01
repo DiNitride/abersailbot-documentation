@@ -1,7 +1,10 @@
+================
 Dewi's Checklist
 ================
 
-# Boat
+Boat
+====
+
 - Dewi's Stand
 - Dewi's Hull
 - Mast
@@ -15,7 +18,9 @@ Dewi's Checklist
 - Wind Vane & Sensor
 - Travel Box
 
-# Electronics
+Electronics
+===========
+
 - Remote Control
 - Raspberry Pi
 - Micro SD Card
@@ -34,7 +39,9 @@ Dewi's Checklist
 - GPS Antenna
 - Deck Antennae
 
-# Spare (Boat)
+Spare (Boat)
+============
+
 - Wind Vane
 - Main Sheet
 - Rope
@@ -43,7 +50,9 @@ Dewi's Checklist
 - Rudder Servo Screw
 - Linkage Nuts
 
-# Spare (Electronics)
+Spare (Electronics)
+===================
+
 - Raspberry Pi
 - Micro SD Card
 - Arduino Nano
@@ -57,7 +66,9 @@ Dewi's Checklist
 - Molex Connectors (for Cpt. Morgan)
 - Deans connectors
 
-# Tools
+Tools
+=====
+
 - Soldering Iron
 - Solder Sucker
 - Glue Gun
@@ -72,7 +83,9 @@ Dewi's Checklist
 - Knife
 - Scissors
 
-# Consumables
+Consumables
+===========
+
 - Solder
 - Header Pins
 - Vaseline
@@ -89,7 +102,9 @@ Dewi's Checklist
 - Glue Gun Sticks
 - Cling Film (sealing travel box)
 
-# Other
+Other
+=====
+
 - GoPro
 - GoPro MicroSD Card
 - GoPro Case
