@@ -10,6 +10,7 @@ Contents:
    hardware-spec
    provisioning
    testing
+   dewi-checklist
    yo-dawg
 
 
