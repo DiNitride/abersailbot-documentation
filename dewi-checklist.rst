@@ -110,3 +110,5 @@ Other
 - GoPro Case
 - GoPro Mount (for vision)
 - GoPro Float
+- Ethernet Cable
+- Extension Lead (Foreign & UK)
